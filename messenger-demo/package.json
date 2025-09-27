@@ -1,0 +1,12 @@
+{
+  "name": "messenger-demo",
+  "version": "1.0.0",
+  "description": "Мини-мессенджер на HTML, CSS, JS + WebSocket demo-сервер",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
